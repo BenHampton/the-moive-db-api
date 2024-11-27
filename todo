@@ -1,2 +1,3 @@
+things to read more into
 dotnet tool install --global dotnet-ef --version 9.*
 -> needed for  `dotnet ef migrations add init`
